@@ -23,7 +23,7 @@ cargo test -p pallet-template --all-features
 ```
 
 The results will be:
-![Test Result Picture](./doc/img/test_results.jpeg)
+![Test Result Picture](https://github.com/IanGYan/Exercise6-Benchmarking-Weights-and-Chainspec/blob/main/doc/img/test_results.jpeg)
 
 ### 1.3 Create the Weights trait
 
@@ -76,8 +76,8 @@ Or, just run the command below to review the benchmarking result as below:
 ```
 
 The results will be:
-![Benchmarking Picture 1](./doc/img/benchmarking_1.jpeg)
-![Benchmarking Picture 2](./doc/img/benchmarking_2.jpeg)
+![Benchmarking Picture 1](https://github.com/IanGYan/Exercise6-Benchmarking-Weights-and-Chainspec/blob/main/doc/img/benchmarking_1.jpeg)
+![Benchmarking Picture 2](https://github.com/IanGYan/Exercise6-Benchmarking-Weights-and-Chainspec/blob/main/doc/img/benchmarking_2.jpeg)
 
 ## 2. The Weights
 
@@ -247,15 +247,15 @@ Now, the chain works! The pictures of the chain are showed as below:
 
 Node01 -
 
-![node01](./doc/img/node01.jpeg)
+![node01](https://github.com/IanGYan/Exercise6-Benchmarking-Weights-and-Chainspec/blob/main/doc/img/node01.jpeg)
 
 Node02 -
 
-![node02](./doc/img/node02.jpeg)
+![node02](https://github.com/IanGYan/Exercise6-Benchmarking-Weights-and-Chainspec/blob/main/doc/img/node02.jpeg)
 
 Polkdot-JS -
 
-![polkdot-js](./doc/img/polkdot-js.jpeg)
+![polkdot-js](https://github.com/IanGYan/Exercise6-Benchmarking-Weights-and-Chainspec/blob/main/doc/img/polkdot-js.jpeg)
 
 ## 5. TODO: Change PoA to POS
 
